@@ -1,2 +1,1 @@
-Finished.
-Fork the repo and run npm install to install all the dependencies
+### Celo Sage E-commerce & Valora Tutorial Starter demo project  
