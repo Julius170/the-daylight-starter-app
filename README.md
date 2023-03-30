@@ -348,15 +348,32 @@ import { newKitFromWeb3 } from "@celo/contractkit";
 
 1. Firstly, You’ll need to log in to the application using your preferred method and email. You  can also use a dummy email.
 
+![image](https://user-images.githubusercontent.com/69092079/228705004-47a21412-fb02-4f8a-b7a4-d01966c65afe.png)
+
 2. To add items to buy, Go to the shop and click on the cart icon attached to any items, and you’ll notice, it updated the number of items in the cart.
 
+![image](https://user-images.githubusercontent.com/69092079/228705107-d8456d95-42c5-43d6-aa68-2f1d8cb1d276.png)
+
 3. Click on the cart icon to view the Items and the `GO TO CHECKOUT` button, and you’ll be redirected to the checkout page.
+ 
+![image](https://user-images.githubusercontent.com/69092079/228705199-c083147e-d278-48f1-b0d9-5d4ca8ca518c.png)
 
 4. Click on the button `connect` below to prompt you to connect by scanning a QR code with your Valora app.
 
-5. Open your Valora app on your mobile device, and navigate to the scan QR screen to on your valora mobile app scan the QR code on the application. And click on allow to connect your Valora app to the e-commerce application.
+![image](https://user-images.githubusercontent.com/69092079/228705304-2e5c8aa5-0d85-4594-8237-6ce2a9f4245e.png)
+
+5. Open your Valora app on your mobile device, and navigate to the scan QR screen to on your valora mobile app scan the QR code on the application. And click on `Allow` to connect your Valora app to the e-commerce application.
+
+![image](https://user-images.githubusercontent.com/69092079/228705577-74525224-f234-4ff5-8b6a-e1366168b8dc.jpg)
 
 6. You will then be prompted in your Valora app to confirm payment. You can click on `Allow` to confirm the transaction and send the amount to the application’s receiving address. 
+
+![image](https://user-images.githubusercontent.com/69092079/228706251-f7134027-251f-4b61-aeb7-e08e9389eb26.jpg)
+
+7. Finally, you'll notice the difference in the your wallet address, both in the recieving and sending wallet. For this sample demo, you can send 0 celo.
+
+![image](https://user-images.githubusercontent.com/69092079/228706429-e9696f83-9762-4e1c-8923-d30c7d7fa5db.jpg)
+
 
 ## Conclusion​
 
